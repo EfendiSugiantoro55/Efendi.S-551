@@ -1,10 +1,10 @@
 # Efendi.S-551
-Project 1 IT
 
-# Project 1: [Nama Proyek]
+
+# Project 1: Web PHP
 
 ## Deskripsi
-Proyek ini merupakan implementasi [jelaskan secara singkat tujuan dari proyek, misalnya: aplikasi web untuk manajemen tugas] menggunakan [jelaskan teknologi atau bahasa pemrograman yang digunakan, misalnya: framework Django dengan Python].
+Proyek ini merupakan implementasi Web PHP dengan Mysql.
 
 ## Fitur Utama
 - [Fitur 1]: Deskripsi fitur 1.
