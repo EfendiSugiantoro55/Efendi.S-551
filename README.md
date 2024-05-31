@@ -1,10 +1,13 @@
 # Efendi.S-551
 
 
-# Project 1: Web PHP
+# Project 1: Web PHP dan MYSQL
 
 ## Deskripsi
-Proyek ini merupakan implementasi Web PHP dengan Mysql.
+Proyek ini adalah aplikasi web PHP dengan database MySQL. Tujuannya adalah menyediakan platform untuk manajemen data seperti karyawan, pelanggan, dan produk. 
+Fitur-fiturnya meliputi manajemen pengguna, karyawan, produk, pelanggan, pesanan, serta laporan dan analisis. 
+Aplikasi ini juga memiliki sistem keamanan, integrasi dengan pembayaran online, dan antarmuka pengguna yang intuitif. 
+Diharapkan dapat meningkatkan efisiensi dalam pengelolaan data dan pengambilan keputusan bisnis.
 
 ## Fitur Utama
 - [Fitur 1]: Deskripsi fitur 1.
